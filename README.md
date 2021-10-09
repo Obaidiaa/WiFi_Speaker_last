@@ -1,3 +1,8 @@
+Important:
+
+the schematic has design issue in pcb antenna not working require external antenna.
+
+
 LOG 
 
 
